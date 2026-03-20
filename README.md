@@ -1,16 +1,3 @@
-# Parcial 1 - Desarrollo de Software
-
-## Nombre y Apellido
-Luciano Oro
-
-## Legajo
-50515
-
-## Comisión
-3K9
-
----
-
 ## Instrucciones y Características
 
 Esta API ha sido diseñada para detectar si un humano es mutante a partir de su secuencia de ADN. El sistema se basa en patrones específicos dentro de la secuencia de ADN y permite almacenar cada análisis en una base de datos para futuras referencias.
